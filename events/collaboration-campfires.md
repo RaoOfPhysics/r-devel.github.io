@@ -59,7 +59,7 @@ The Collaboration Campfires are part of the project [Building Community around t
 
 ## Code of Conduct
 
-As CS&S events, their [code of conduct](Guidelines for community participation & Code of Conduct: (https://eventfund.codeforscience.org/code-of-conduct/) will apply to these sessions.
+As CS&S events, their [code of conduct](https://eventfund.codeforscience.org/code-of-conduct/) will apply to these sessions.
 
 <center>
 <a href = "https://codeforscience.org/">
